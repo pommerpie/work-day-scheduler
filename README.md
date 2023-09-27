@@ -4,6 +4,6 @@ as make it so they changed color depending on the time of day. Using day.js, I w
 what hour of the day it was. Lastly, any events logged will be saved to Local Storage, meaning plans will stay even after
 refreshing the page.
 
-<img src="Develop\assets\preview.png">
+<img src=".\assets\preview.png" height="500">
 
 <a href="https://pommerpie.github.io/work-day-scheduler/">Link to the planner here!</a>
